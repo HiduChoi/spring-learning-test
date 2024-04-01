@@ -5,7 +5,7 @@ import org.springframework.stereotype.Service;
 
 @Service
 public class FieldInjection {
-
+     @Autowired
     /*
     FieldInjection으로 InjectionBean 주입받기
      */
